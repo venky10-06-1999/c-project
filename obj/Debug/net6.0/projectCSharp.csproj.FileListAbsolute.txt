@@ -1,0 +1,15 @@
+C:\Users\venky\source\repos\Project_C#\bin\Debug\net6.0\projectCSharp.exe
+C:\Users\venky\source\repos\Project_C#\bin\Debug\net6.0\projectCSharp.deps.json
+C:\Users\venky\source\repos\Project_C#\bin\Debug\net6.0\projectCSharp.runtimeconfig.json
+C:\Users\venky\source\repos\Project_C#\bin\Debug\net6.0\projectCSharp.dll
+C:\Users\venky\source\repos\Project_C#\bin\Debug\net6.0\projectCSharp.pdb
+C:\Users\venky\source\repos\Project_C#\obj\Debug\net6.0\projectCSharp.csproj.AssemblyReference.cache
+C:\Users\venky\source\repos\Project_C#\obj\Debug\net6.0\projectCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\venky\source\repos\Project_C#\obj\Debug\net6.0\projectCSharp.AssemblyInfoInputs.cache
+C:\Users\venky\source\repos\Project_C#\obj\Debug\net6.0\projectCSharp.AssemblyInfo.cs
+C:\Users\venky\source\repos\Project_C#\obj\Debug\net6.0\projectCSharp.csproj.CoreCompileInputs.cache
+C:\Users\venky\source\repos\Project_C#\obj\Debug\net6.0\projectCSharp.dll
+C:\Users\venky\source\repos\Project_C#\obj\Debug\net6.0\refint\projectCSharp.dll
+C:\Users\venky\source\repos\Project_C#\obj\Debug\net6.0\projectCSharp.pdb
+C:\Users\venky\source\repos\Project_C#\obj\Debug\net6.0\projectCSharp.genruntimeconfig.cache
+C:\Users\venky\source\repos\Project_C#\obj\Debug\net6.0\ref\projectCSharp.dll
